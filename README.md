@@ -81,6 +81,15 @@ Dieses Projekt verwendet die [MIT-Lizenz](https://choosealicense.com/licenses/mi
 
 ---
 
+## Erweiterungsideen
+
+* Mehrsprachiger Tooltipp-Erweiterung (Deutsch, Englisch, etc.)
+* Einbindung ins Menüband mit erklärendem Hilfe-Button
+* automatischem Scan & Lösch-Feature bei Zelländerung per Event
+* FehlerInfo-Funktion als "Hover-Hilfe" auf Nachfrage
+
+---
+
 ## 🤝 Mitmachen
 
 Feedback, Ideen oder Bug-Meldungen? Öffne gerne ein Issue oder starte einen Pull Request – jede Verbesserung macht das Projekt besser!
